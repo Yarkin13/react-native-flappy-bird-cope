@@ -1,4 +1,4 @@
-# react-native-flappy-bird-cope
+# react-native-flappy-bird-copy
 
 yarn
 
